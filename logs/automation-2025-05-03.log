@@ -1,0 +1,50 @@
+20:04:46.494 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting Test Case
+20:04:46.501 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on my Account.
+20:04:46.850 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on Register.
+20:04:47.304 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling the required registration details.
+20:04:47.521 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking privacy policy.
+20:04:47.753 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on continue.
+20:04:48.426 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+20:04:48.463 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Test Execution successfully.
+20:07:00.007 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Starting Test Case
+20:07:00.069 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking on my Account.
+20:07:00.395 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Starting Test Case
+20:07:00.396 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking on my Account.
+20:07:00.547 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking on Register.
+20:07:00.764 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking on Register.
+20:07:01.630 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Filling the required registration details.
+20:07:02.059 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Filling the required registration details.
+20:07:02.468 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Starting Test Case
+20:07:02.469 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking on my Account.
+20:07:02.756 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking on Register.
+20:07:02.827 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Checking privacy policy.
+20:07:02.956 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking on continue.
+20:07:03.138 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Checking privacy policy.
+20:07:03.160 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Filling the required registration details.
+20:07:03.303 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking on continue.
+20:07:03.438 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Checking privacy policy.
+20:07:03.668 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking on continue.
+20:07:03.865 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+20:07:03.948 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Finished Test Execution successfully.
+20:07:04.828 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+20:07:04.891 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+20:07:04.912 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Finished Test Execution successfully.
+20:07:04.923 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Finished Test Execution successfully.
+20:31:11.490 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting Test Case
+20:31:11.516 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on my Account.
+20:31:11.995 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on Register.
+20:31:12.798 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling the required registration details.
+20:31:13.224 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking privacy policy.
+20:31:13.290 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on continue.
+20:31:13.943 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+20:31:14.003 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Test Execution successfully.
+21:13:16.215 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting Test Case
+21:13:16.253 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on my Account.
+21:13:16.865 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on Register.
+21:13:17.406 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling the required registration details.
+21:13:18.389 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking privacy policy.
+21:13:18.584 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on continue.
+21:13:19.425 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+21:13:19.509 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Test Execution successfully.
+21:13:23.269 [main] INFO  testCases.TC002_LoginTest - Starting Login Test
+21:18:03.275 [main] INFO  testCases.TC002_LoginTest - Starting Login Test

@@ -1,0 +1,59 @@
+10:32:16.383 [main] INFO  testCases.TC002_LoginTest - Login Test finished.
+10:33:56.406 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsh\eclipse-workspace\java\JavaSelenium\OpenCart-V1.0\grouping.xml
+
+10:34:00.296 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting Test Case
+10:34:00.320 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on my Account.
+10:34:00.731 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on Register.
+10:34:01.409 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling the required registration details.
+10:34:01.884 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking privacy policy.
+10:34:01.951 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on continue.
+10:34:02.905 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+10:34:02.986 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Test Execution successfully.
+10:34:06.309 [main] INFO  testCases.TC002_LoginTest - Starting Login Test
+10:34:08.428 [main] INFO  testCases.TC002_LoginTest - Login Test finished.
+10:36:03.240 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsh\eclipse-workspace\java\JavaSelenium\OpenCart-V1.0\grouping.xml
+
+10:36:06.894 [main] INFO  testCases.TC002_LoginTest - Starting Login Test
+10:36:08.922 [main] INFO  testCases.TC002_LoginTest - Login Test finished.
+14:35:27.480 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsh\eclipse-workspace\java\JavaSelenium\OpenCart-V1.0\master.xml
+
+14:35:31.739 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting Test Case
+14:35:31.758 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on my Account.
+14:35:32.095 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on Register.
+14:35:32.725 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling the required registration details.
+14:35:33.205 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking privacy policy.
+14:35:33.287 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on continue.
+14:35:34.192 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+14:35:34.238 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Test Execution successfully.
+14:35:37.418 [main] INFO  testCases.TC002_LoginTest - Starting Login Test
+14:35:39.590 [main] INFO  testCases.TC002_LoginTest - Login Test finished.
+14:35:43.609 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+14:35:48.268 [main] INFO  testCases.TC003_LoginDataDrivenTesting - if(if(targetPage==true))
+14:35:48.268 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+14:35:48.274 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+14:36:00.462 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+14:36:00.463 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+14:36:00.468 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+14:36:13.495 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+14:36:13.495 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+14:36:13.495 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+14:36:18.497 [main] INFO  testCases.TC003_LoginDataDrivenTesting - if(if(targetPage==true))
+14:36:18.498 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+14:36:18.504 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+14:36:31.105 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+14:36:31.106 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+14:36:31.114 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+14:36:44.059 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+14:36:44.059 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+14:36:44.064 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+14:38:44.640 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsh\eclipse-workspace\java\JavaSelenium\OpenCart-V1.0\grouping.xml
+
+14:38:49.252 [main] INFO  testCases.TC002_LoginTest - Starting Login Test
+14:38:51.059 [main] INFO  testCases.TC002_LoginTest - Login Test finished.
+14:43:26.462 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vamsh\eclipse-workspace\java\JavaSelenium\OpenCart-V1.0\test-output\testng-failed.xml
+

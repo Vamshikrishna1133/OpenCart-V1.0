@@ -1,0 +1,48 @@
+09:40:18.374 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+09:40:29.985 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+09:40:29.985 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+09:40:29.985 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+09:40:34.174 [main] INFO  testCases.TC003_LoginDataDrivenTesting - if(if(targetPage==true))
+09:40:34.175 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+09:40:34.176 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+09:40:45.798 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+09:40:45.798 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+09:40:45.800 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+09:40:57.648 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+09:40:57.648 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+09:40:57.653 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+09:41:09.544 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+09:41:09.544 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+20:03:05.361 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting Test Case
+20:03:05.391 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on my Account.
+20:03:05.938 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on Register.
+20:03:06.432 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling the required registration details.
+20:03:06.990 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking privacy policy.
+20:03:07.074 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on continue.
+20:03:08.144 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+20:03:08.223 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Test Execution successfully.
+20:03:11.787 [main] INFO  testCases.TC002_LoginTest - Starting Login Test
+20:03:13.874 [main] INFO  testCases.TC002_LoginTest - Login Test finished.
+20:03:18.474 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+20:03:23.133 [main] INFO  testCases.TC003_LoginDataDrivenTesting - if(if(targetPage==true))
+20:03:23.133 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+20:03:23.135 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+20:03:34.794 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+20:03:34.794 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+20:03:34.794 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+20:03:46.838 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+20:03:46.838 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+20:03:46.848 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+20:03:51.965 [main] INFO  testCases.TC003_LoginDataDrivenTesting - if(if(targetPage==true))
+20:03:51.965 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+20:03:51.968 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+20:04:04.007 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+20:04:04.007 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+20:04:04.009 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+20:04:16.394 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+20:04:16.394 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+20:04:16.410 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+20:04:29.062 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+20:04:29.062 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+11:20:41.440 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting Test Case
+11:20:41.489 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on my Account.

@@ -1,15 +1,29 @@
-09:40:18.374 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
-09:40:29.985 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
-09:40:29.985 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
-09:40:29.985 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
-09:40:34.174 [main] INFO  testCases.TC003_LoginDataDrivenTesting - if(if(targetPage==true))
-09:40:34.175 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
-09:40:34.176 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
-09:40:45.798 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
-09:40:45.798 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
-09:40:45.800 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
-09:40:57.648 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
-09:40:57.648 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
-09:40:57.653 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
-09:41:09.544 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
-09:41:09.544 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+11:20:41.736 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on Register.
+11:20:42.254 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling the required registration details.
+11:20:43.525 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking privacy policy.
+11:20:43.737 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on continue.
+11:20:44.933 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+11:20:45.025 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Test Execution successfully.
+11:20:48.744 [main] INFO  testCases.TC002_LoginTest - Starting Login Test
+11:20:51.327 [main] INFO  testCases.TC002_LoginTest - Login Test finished.
+11:20:58.525 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+11:21:05.593 [main] INFO  testCases.TC003_LoginDataDrivenTesting - if(if(targetPage==true))
+11:21:05.593 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+11:21:05.601 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+11:21:17.647 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+11:21:17.651 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+11:21:17.654 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+11:21:31.312 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+11:21:31.312 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+11:21:31.322 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+11:21:36.919 [main] INFO  testCases.TC003_LoginDataDrivenTesting - if(if(targetPage==true))
+11:21:36.919 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+11:21:36.925 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+11:21:50.084 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+11:21:50.084 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+11:21:50.091 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+11:22:03.272 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+11:22:03.272 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
+11:22:03.277 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Starting Test003_LoginDataDrivenTesting ***********
+11:22:15.819 [main] INFO  testCases.TC003_LoginDataDrivenTesting - else(if(targetPage==false))
+11:22:15.819 [main] INFO  testCases.TC003_LoginDataDrivenTesting - **** Test Execution Completed *********
